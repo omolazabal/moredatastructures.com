@@ -1,77 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/getting-started/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/getting-started/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/admonition/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/si-sessions/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/codehilite/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/essentials/essentials/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/footnotes/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/vectors/vectors/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/metadata/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/linked-list/linked-list/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/permalinks/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/stacks-queues/stacks-queues/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/extensions/pymdown/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/trees/trees/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/specimen/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/hash-tables/hash-tables/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/customization/</loc>
-     <lastmod>2019-08-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/compliance/</loc>
-     <lastmod>2019-08-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/release-notes/</loc>
-     <lastmod>2019-08-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/authors-notes/</loc>
-     <lastmod>2019-08-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/contributing/</loc>
-     <lastmod>2019-08-19</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://squidfunk.github.io/mkdocs-material/license/</loc>
+     <loc>https://github.com/omolazabal/si-fall-2019/graphs/graphs/</loc>
      <lastmod>2019-08-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
