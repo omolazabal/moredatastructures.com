@@ -67,7 +67,7 @@ python3 run.py --update
 
 Code segments you are intended to modify are labeled via comments:
 
-``` C++ hl_lines="10 11 12 13 14"
+``` C++ hl_lines="11 12 13"
 #include "course.h"
 #include "student.h"
 #include <stdexcept>
