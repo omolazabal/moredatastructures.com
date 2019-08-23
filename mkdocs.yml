@@ -1,4 +1,3 @@
-# Copyright (c) 2016-2019 Martin Donath <martin.donath@squidfunk.com>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -19,8 +18,8 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: CPSC 131 SI Practice
-site_description: Practice material for CPSC 131
+site_name: More Data Structures
+site_description: Practice material for CSUF's CPSC 131
 site_author: Oscar Olazabal
 site_url: https://github.com/omolazabal/si-fall-2019
 
@@ -107,23 +106,44 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Welcome: index.md
-  - Getting started: getting-started.md
+  - Home: index.md
+  - Coding Exercises: set-up.md
   - SI Sessions: si-sessions.md
   - C++ Essentials:
-    - Introduction: essentials/essentials.md
+    - Overview: essentials/overview.md
+    - Problems: essentials/problems.md
+    - Coding Exercise: essentials/coding-exercise.md
+    - Resources: essentials/resources.md
   - Vectors:
-    - Introduction: vectors/vectors.md
+    - Overview: vectors/overview.md
+    - Problems: vectors/problems.md
+    - Coding Exercise: vectors/coding-exercise.md
+    - Resources: vectors/resources.md
   - Linked Lists:
-    - Introduction: linked-list/linked-list.md
+    - Overview: linked-list/overview.md
+    - Problems: linked-list/problems.md
+    - Coding Exercise: linked-list/coding-exercise.md
+    - Resources: linked-list/resources.md
   - Stacks and Queues:
-    - Introduction: stacks-queues/stacks-queues.md
+    - Overview: stacks-queues/overview.md
+    - Problems: stacks-queues/problems.md
+    - Coding Exercise: stacks-queues/coding-exercise.md
+    - Resources: stacks-queues/resources.md
   - Trees:
-    - Introduction: trees/trees.md
+    - Overview: trees/overview.md
+    - Problems: trees/problems.md
+    - Coding Exercise: trees/coding-exercise.md
+    - Resources: trees/resources.md
   - Hash Tables:
-    - Introduction: hash-tables/hash-tables.md
+    - Overview: hash-tables/overview.md
+    - Problems: hash-tables/problems.md
+    - Coding Exercise: hash-tables/coding-exercise.md
+    - Resources: hash-tables/resources.md
   - Graphs:
-    - Introduction: graphs/graphs.md
+    - Overview: graphs/overview.md
+    - Problems: graphs/problems.md
+    - Coding Exercise: graphs/coding-exercise.md
+    - Resources: graphs/resources.md
 
 # Google Analytics
 # google_analytics:
