@@ -20,6 +20,7 @@
 
 # macOS internals
 .DS_Store
+*.swp
 
 # NPM-related
 /node_modules
