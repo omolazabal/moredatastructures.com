@@ -33,7 +33,7 @@ At the end of the week, the topic's respective codebase will be upadated with so
 ## Getting started
 1. Download and set up [Tuffix](https://github.com/kevinwortman/tuffix/blob/master/install.md).
 2. Create a [GitHub](https://github.com/) account
-3. **Fork the [SI GitHub repository](https://github.com/omolazabal/si-fall-2019/fork)**. You can accomplish this by clicking the [Fork](https://github.com/omolazabal/si-fall-2019/fork) button on the top right corner of this page.
+3. **Fork the [SI GitHub repository](https://github.com/omolazabal/si-fall-2019/fork)**. You can accomplish this by clicking the [Fork](https://github.com/omolazabal/si-fall-2019/fork) button on the top right corner of the repository's page.
 4. **Navigating to your preferred workspace in your terminal** to work on the repository locally. Use [this guide](https://www.git-tower.com/learn/git/ebook/en/command-line/appendix/command-line-101) if necessary.
 5. **Clone your forked repository** by running the following command. Replace <YOUR_GITHUB_USERNAME> with your GitHub username.
 
