@@ -1,6 +1,6 @@
 
 ## Overview
-Every Wednesday, a new set of programming exercises will be introduced via GitHub. You can find the exercises at the repository [https://github.com/omolazabal/si-fall-2019](https://github.com/omolazabal/si-fall-2019). Continue reading to learn how to use the repository.
+Every week, a new set of programming exercises will be introduced via GitHub. You can find the exercises at the repository [https://github.com/omolazabal/si-fall-2019](https://github.com/omolazabal/si-fall-2019). Continue reading to learn how to use the repository.
 
 The structures of the repository is as follows:
 ```
