@@ -19,7 +19,7 @@ This week's exercise will focus on dynamic memory, as it is a fundametal aspect 
 The `1-dynamic-memory` codebase consists of a program that allows one to enroll students into a course. You will be filling in the empty functions in `src/course.cpp` in order complete this exercise.
 
 !!! warning
-    In your repository, please only modify the highlighted regions in `src/course.cpp`
+    In your repository, please only modify the highlighted regions in `src/course.cpp` indicated below
 
 ``` C++ tab="include/course.h"
 
