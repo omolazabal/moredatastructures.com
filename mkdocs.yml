@@ -110,37 +110,30 @@ nav:
   - Coding Exercises: set-up.md
   - SI Sessions: si-sessions.md
   - C++ Essentials:
-    - Overview: essentials/overview.md
     - Problems: essentials/problems.md
     - Coding Exercise: essentials/coding-exercise.md
     - Resources: essentials/resources.md
 #   - Vectors:
-#     - Overview: vectors/overview.md
 #     - Problems: vectors/problems.md
 #     - Coding Exercise: vectors/coding-exercise.md
 #     - Resources: vectors/resources.md
 #   - Linked Lists:
-#     - Overview: linked-list/overview.md
 #     - Problems: linked-list/problems.md
 #     - Coding Exercise: linked-list/coding-exercise.md
 #     - Resources: linked-list/resources.md
 #   - Stacks and Queues:
-#     - Overview: stacks-queues/overview.md
 #     - Problems: stacks-queues/problems.md
 #     - Coding Exercise: stacks-queues/coding-exercise.md
 #     - Resources: stacks-queues/resources.md
 #   - Trees:
-#     - Overview: trees/overview.md
 #     - Problems: trees/problems.md
 #     - Coding Exercise: trees/coding-exercise.md
 #     - Resources: trees/resources.md
 #   - Hash Tables:
-#     - Overview: hash-tables/overview.md
 #     - Problems: hash-tables/problems.md
 #     - Coding Exercise: hash-tables/coding-exercise.md
 #     - Resources: hash-tables/resources.md
 #   - Graphs:
-#     - Overview: graphs/overview.md
 #     - Problems: graphs/problems.md
 #     - Coding Exercise: graphs/coding-exercise.md
 #     - Resources: graphs/resources.md
