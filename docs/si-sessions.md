@@ -5,10 +5,10 @@ There are plenty of CPSC 131 [Supplemental Instruction][1] sections available. B
 
 | Date | Time  | Room | Leader |  Professor |
 | ---- | ------| ---- | ------ | ---------- |
-| TBD | TBD | TBD | Daniel Walsh | Anand Panangadan |
-| TBD | TBD | TBD | Gregory Vasquez | Doina Bein |
-| TBD | TBD | TBD | Janeen Yamak | Lakhanpal |
-| TBD | TBD | TBD | Oscar Olazabal | Lakhanpal |
+| TuTh | 2:30pm - 3:45pm | CS 209 | Daniel Walsh | Anand Panangadan |
+| MoWe | 10:00am - 11:15am | CS 209 | Gregory Vasquez | Doina Bein |
+| MoWe | 4:00pm - 5:15pm | CS 209 | Janeen Yamak | Lakhanpal |
+| MoWe | 5:30pm - 6:45pm | CS 209 | Oscar Olazabal | Lakhanpal |
 
 !!! note
     SI sessions may slightly vary in terms of content and presentation, as SI leaders are required to create an ajenda for their particular professor.

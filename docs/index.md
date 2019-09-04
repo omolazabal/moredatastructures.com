@@ -2,10 +2,9 @@
 
 Welcome to More Data Structures! Here you'll be able to reinforce the material you'll be learning in your Data Structures course. Please refer to the navigation buttons above to select a topic and view material their corresponding material.
 
-Here is what you can expect More Data Strucutues to provide:
+Here is what you can expect More Data Structures to provide:
 
-* A summary of what you've learned in your Data Structure course
-* A set of problems for each topic with hints and solutions
+* A set of problems for each topic
 * Coding exercises that are integrated with Git and GitHub
 * Useful links and resources
 
