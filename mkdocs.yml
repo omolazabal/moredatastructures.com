@@ -114,6 +114,9 @@ nav:
     - Problems: essentials/problems.md
     - Coding Exercise: essentials/coding-exercise.md
     - Resources: essentials/resources.md
+  - Runtime:
+    - Problems: runtime/problems.md
+    - Resources: runtime/resources.md
 #   - Vectors:
 #     - Problems: vectors/problems.md
 #     - Coding Exercise: vectors/coding-exercise.md

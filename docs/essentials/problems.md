@@ -154,3 +154,12 @@ int main() {
 }
 ```
 
+## Classes and Objects
+1. What are the differences between classes and objects?
+2. What are constructors and destructors?
+3. What is public and private?
+4. Design a class with the following details:
+    - class for cars
+    - private attributes: brand, lisencse plate
+    - public methods: set brand, set license plate, get brand, get license plate
+5. Create two objects from the class above. The first having the brand Ford and license plate number 1234567. The second having the brand name BMW and license plate 7654321.
