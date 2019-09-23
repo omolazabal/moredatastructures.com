@@ -18,7 +18,7 @@ CPP Vector reference: http://www.cplusplus.com/reference/vector/vector/
 3. What functions are utilized to add and remove items from the end of the vector?
 4. What functions are utilized to check the vectors size and capacity?
 5. Write a two vector declarations. One that stores integers and another that stores objects from a class named Students.
-6. What doe the following program output?
+6. What does the following program output?
 ```C++
 #include <iostream>
 #include <vector>
@@ -54,7 +54,7 @@ int main() {
         cout << i << " ";
 }
 ```
-8. What doe the following program output?
+8. What does the following program output?
 ```C++
 #include <iostream>
 #include <vector>
