@@ -2,42 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://moredatastructures.com/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/set-up/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/si-sessions/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/essentials/problems/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/essentials/coding-exercise/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/essentials/resources/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/runtime/problems/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://moredatastructures.com/runtime/resources/</loc>
-     <lastmod>2019-09-11</lastmod>
+     <lastmod>2019-09-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://moredatastructures.com/vectors/problems/</loc>
+     <lastmod>2019-09-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
