@@ -7,7 +7,7 @@
 Please run
 
 ```
-python3 run.py --update
+./run.py --update
 ```
 
 To ensure you have the latest problem set. You should be able to see `1-dynamic-memory` in your repository.
@@ -227,7 +227,7 @@ bool operator==(const Student &lhs, const Student &rhs) {
 After you have modified your code, test it! You can test it by running
 
 ```
-python3 run.py --test 1-dynamic-memory
+./run.py --test 1-dynamic-memory
 ```
 
 At the root of your repository.
@@ -235,7 +235,7 @@ At the root of your repository.
 
 If you've successfully implemented all of the functions, your output should look like this:
 ```
-❯ python3 run.py --test 1-dynamic-memory
+❯ ./run.py --test 1-dynamic-memory
 a - gtest-all.o
 a - gtest-all.o
 a - gtest_main.o
