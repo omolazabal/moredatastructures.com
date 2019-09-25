@@ -21,7 +21,7 @@ The `2-fixed-vector` codebase consists of a partially complete fixed vector clas
     In your repository, please only modify the highlighted regions in `include/fixed_vector.h` indicated below
 
 
-``` C++ tab="include/fixed-vector.h" hl_lines="33 34 35 44 45 46 55 56 57 66 67 68 77 78 79"
+``` C++ tab="include/fixed_vector.h" hl_lines="33 34 35 44 45 46 55 56 57 66 67 68 77 78 79"
 
 #ifndef FIXED_VECTOR_H
 #define FIXED_VECTOR_H
