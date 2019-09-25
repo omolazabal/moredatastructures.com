@@ -119,8 +119,8 @@ nav:
     - Resources: runtime/resources.md
   - Vectors:
     - Problems: vectors/problems.md
-#     - Coding Exercise: vectors/coding-exercise.md
-#     - Resources: vectors/resources.md
+    - Coding Exercise: vectors/coding-exercise.md
+    - Resources: vectors/resources.md
 #   - Linked Lists:
 #     - Problems: linked-list/problems.md
 #     - Coding Exercise: linked-list/coding-exercise.md
