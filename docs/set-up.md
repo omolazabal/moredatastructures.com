@@ -47,7 +47,7 @@ git clone https://github.com/<YOUR_GITHUB_USERNAME>/si-fall-2019.git
 Before you begin working on programming exercises, you'll have to configure your repository so that you can update it with new problems. This can be done by running the following command in your terminal while in your repository:
 
 ```
-./run.py --config
+./run --config
 ```
 
 !!! warning
@@ -60,7 +60,7 @@ Every week of the semester this repository will be updated with new exercises. T
 To update your repository with the latest problems, run the command:
 
 ```
-./run.py --update
+./run --update
 ```
 
 ### Editing Code Segments
@@ -91,7 +91,7 @@ Please only modify the code between the lines. If changes are made elsewhere, th
 To execute your programs, run the following command at the root of your repository:
 
 ```
-./run.py --test <folder_name>
+./run --test <folder_name>
 ```
 
 Where the `--test` flag signifies you want to test the corresponding code in the folder named <folder_name>. Please replace <folder_name> with the name of whichever folder you would like to test.
@@ -99,13 +99,13 @@ Where the `--test` flag signifies you want to test the corresponding code in the
 For example, the following command will un the unit tests associated with the [1-dynamic-memory](https://github.com/omolazabal/si-fall-2019/tree/master/1-dynamic-memory) problem set:
 
 ```
-./run.py --test 1-dynamic-memory
+./run --test 1-dynamic-memory
 ```
 
 If you wish to run all tests, use the command:
 
 ```
-./run.py --test all
+./run --test all
 ```
 
 
@@ -113,7 +113,7 @@ If you wish to run all tests, use the command:
 
 | Command  | Action |
 | ------------- | ------------- |
-| `./run.py --config` | Initial git configuration  |
-| `./run.py --update`  | Update workspace with newly available problems  |
-| `./run.py --test [folder name]`  | Run unit tests to see how your programs perform  |
+| `./run --config` | Initial git configuration  |
+| `./run --update`  | Update workspace with newly available problems  |
+| `./run --test [folder name]`  | Run unit tests to see how your programs perform  |
 
