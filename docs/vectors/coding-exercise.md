@@ -6,7 +6,7 @@
 Please run
 
 ```
-./run.py --update
+./update
 ```
 
 To ensure you have the latest problem set. You should be able to see `2-fixed-vector` in your repository.
@@ -143,7 +143,7 @@ size_t FixedVector<T>::get_size() {
 After you have modified your code, test it! You can test it by running
 
 ```
-./run.py --test 2-fixed-vector
+./run 2-fixed-vector
 ```
 
 At the root of your repository.
@@ -151,80 +151,47 @@ At the root of your repository.
 
 If you've successfully implemented all of the functions, your output should look like this:
 ```
-❯ ./run.py --test 2-fixed-vector
+❯ ./run 2-fixed-vector
+
+================================================================================================================
+
+                                         COMPILING 2-fixed-vector TESTS
+
+ar: creating archive libgtest.a
 a - gtest-all.o
+ar: creating archive libgtest_main.a
 a - gtest-all.o
 a - gtest_main.o
 
+================================================================================================================
+
+                                          RUNNING 2-fixed-vector TESTS
 
 unit_test_2
-Running main() from ../.googletest/src/gtest_main.cc
+Running main() from /Users/oscar/Documents/projects/si-spring-2019/googletest/src/gtest_main.cc
 [==========] Running 5 tests from 1 test case.
 [----------] Global test environment set-up.
 [----------] 5 tests from Fixed_Vector
 [ RUN      ] Fixed_Vector.Copy_Constructor
-unit_test_2.cpp:18: Failure
-Expected equality of these values:
-  vect1.at(1)
-    Which is: 0
-  y
-    Which is: 3
-[  FAILED  ] Fixed_Vector.Copy_Constructor (1 ms)
+[       OK ] Fixed_Vector.Copy_Constructor (0 ms)
 [ RUN      ] Fixed_Vector.Push_Back
-unit_test_2.cpp:29: Failure
-Expected equality of these values:
-  vect1.get_size()
-    Which is: 0
-  2
-[  FAILED  ] Fixed_Vector.Push_Back (0 ms)
+[       OK ] Fixed_Vector.Push_Back (0 ms)
 [ RUN      ] Fixed_Vector.Pop_Back
-unit_test_2.cpp:41: Failure
-Expected equality of these values:
-  vect1.get_size()
-    Which is: 0
-  1
-[  FAILED  ] Fixed_Vector.Pop_Back (0 ms)
+[       OK ] Fixed_Vector.Pop_Back (0 ms)
 [ RUN      ] Fixed_Vector.At
-unit_test_2.cpp:52: Failure
-Expected equality of these values:
-  vect1.at(0)
-    Which is: 0
-  x
-    Which is: 2
-unit_test_2.cpp:53: Failure
-Expected equality of these values:
-  vect1.at(1)
-    Which is: 0
-  y
-    Which is: 3
-[  FAILED  ] Fixed_Vector.At (1 ms)
+[       OK ] Fixed_Vector.At (0 ms)
 [ RUN      ] Fixed_Vector.Operator_Overloading
-unit_test_2.cpp:64: Failure
-Expected equality of these values:
-  vect1.at(0)
-    Which is: 0
-  x
-    Which is: 2
-unit_test_2.cpp:65: Failure
-Expected equality of these values:
-  vect1.at(1)
-    Which is: 0
-  y
-    Which is: 3
-[  FAILED  ] Fixed_Vector.Operator_Overloading (0 ms)
-[----------] 5 tests from Fixed_Vector (2 ms total)
+[       OK ] Fixed_Vector.Operator_Overloading (0 ms)
+[----------] 5 tests from Fixed_Vector (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 5 tests from 1 test case ran. (2 ms total)
-[  PASSED  ] 0 tests.
-[  FAILED  ] 5 tests, listed below:
-[  FAILED  ] Fixed_Vector.Copy_Constructor
-[  FAILED  ] Fixed_Vector.Push_Back
-[  FAILED  ] Fixed_Vector.Pop_Back
-[  FAILED  ] Fixed_Vector.At
-[  FAILED  ] Fixed_Vector.Operator_Overloading
+[==========] 5 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 5 tests.
 
- 5 FAILED TESTS
-makefile:53: recipe for target 'exec' failed
+================================================================================================================
+
+                                           CLEANING 2-fixed-vector UP
+
+================================================================================================================
 ```
 

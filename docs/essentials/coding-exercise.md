@@ -7,7 +7,7 @@
 Please run
 
 ```
-./run.py --update
+./update
 ```
 
 To ensure you have the latest problem set. You should be able to see `1-dynamic-memory` in your repository.
@@ -227,7 +227,7 @@ bool operator==(const Student &lhs, const Student &rhs) {
 After you have modified your code, test it! You can test it by running
 
 ```
-./run.py --test 1-dynamic-memory
+./run 1-dynamic-memory
 ```
 
 At the root of your repository.
@@ -235,11 +235,21 @@ At the root of your repository.
 
 If you've successfully implemented all of the functions, your output should look like this:
 ```
-❯ ./run.py --test 1-dynamic-memory
+❯ ./run 1-dynamic-memory
+
+================================================================================================================
+
+                                        COMPILING 1-dynamic-memory TESTS
+
+ar: creating archive libgtest.a
 a - gtest-all.o
+ar: creating archive libgtest_main.a
 a - gtest-all.o
 a - gtest_main.o
 
+================================================================================================================
+
+                                         RUNNING 1-dynamic-memory TESTS
 
 unit_test_1
 Running main() from /Users/oscar/Documents/projects/si-spring-2019/googletest/src/gtest_main.cc
@@ -257,5 +267,11 @@ Running main() from /Users/oscar/Documents/projects/si-spring-2019/googletest/sr
 [----------] Global test environment tear-down
 [==========] 3 tests from 1 test case ran. (0 ms total)
 [  PASSED  ] 3 tests.
+
+================================================================================================================
+
+                                          CLEANING 1-dynamic-memory UP
+
+================================================================================================================
 ```
 
