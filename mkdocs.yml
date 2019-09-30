@@ -121,10 +121,10 @@ nav:
     - Problems: vectors/problems.md
     - Coding Exercise: vectors/coding-exercise.md
     - Resources: vectors/resources.md
-#   - Linked Lists:
-#     - Problems: linked-list/problems.md
-#     - Coding Exercise: linked-list/coding-exercise.md
-#     - Resources: linked-list/resources.md
+  - Linked Lists:
+    - Problems: linked-list/problems.md
+    - Coding Exercise: linked-list/coding-exercise.md
+    - Resources: linked-list/resources.md
 #   - Stacks and Queues:
 #     - Problems: stacks-queues/problems.md
 #     - Coding Exercise: stacks-queues/coding-exercise.md
