@@ -121,9 +121,9 @@ nav:
   - Linked Lists:
     - Problems: linked-list/problems.md
     - Coding Exercise: linked-list/coding-exercise.md
-#   - Stacks and Queues:
-#     - Problems: stacks-queues/problems.md
-#     - Coding Exercise: stacks-queues/coding-exercise.md
+  - Stacks and Queues:
+    - Problems: stacks-queues/problems.md
+    - Coding Exercise: stacks-queues/coding-exercise.md
 #   - Trees:
 #     - Problems: trees/problems.md
 #     - Coding Exercise: trees/coding-exercise.md
