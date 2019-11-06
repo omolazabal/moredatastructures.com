@@ -124,9 +124,9 @@ nav:
   - Stacks and Queues:
     - Problems: stacks-queues/problems.md
     - Coding Exercise: stacks-queues/coding-exercise.md
-#   - Trees:
-#     - Problems: trees/problems.md
-#     - Coding Exercise: trees/coding-exercise.md
+  - Trees:
+    - Problems: trees/problems.md
+    - Coding Exercise: trees/coding-exercise.md
 #   - Hash Tables:
 #     - Problems: hash-tables/problems.md
 #     - Coding Exercise: hash-tables/coding-exercise.md
